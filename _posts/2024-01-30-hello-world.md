@@ -1,4 +1,4 @@
 ---
 title: "Hello World!"
-date: 2024-30-01
+date: 2024-01-30
 ---
